@@ -1,7 +1,9 @@
 Archispeak Translator
 =====================
 
-Translates common phrases to archispeak.  
+//Translates common phrases to archispeak.  
+
+Correction, there is no translation from english to archispeak. This just generates random phrases in archispeak so you can impress your architect friends.
 
 Developed by
 ------------
