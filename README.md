@@ -1,10 +1,8 @@
-Archispeak Translator
+Archispeak Generator
 =====================
 
-//Translates common phrases to archispeak.  
-
-Correction, there is no translation from english to archispeak. This just generates random phrases in archispeak so you can impress your architect friends.
-Note: I found a site that has an ADT bundle that includes all the Android Development Tools necisarry to get started. This includes the SDK as well as eclipse
+This just generates random phrases in archispeak so you can impress your architect friends.
+Note: I found a site that has an ADT bundle that includes all the Android Development Tools neccesary to get started. This includes the SDK as well as eclipse
 and a few other things. Here's the link: http://developer.android.com/sdk/index.html
 
 Developed by
